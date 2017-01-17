@@ -1,0 +1,199 @@
+START DATE,START TIME,START TIME ET,SUBJECT,LOCATION,DESCRIPTION,END DATE,END DATE ET,END TIME,END TIME ET,REMINDER OFF,REMINDER ON,REMINDER DATE,REMINDER TIME,REMINDER TIME ET,SHOWTIMEAS FREE,SHOWTIMEAS BUSY
+02/24/17,01:05 PM,01:05 PM,Phillies at Yankees,George M. Steinbrenner Field - Tampa,"",02/24/17,02/24/17,04:05 PM,04:05 PM,FALSE,TRUE,02/24/17,12:05 PM,12:05 PM,FREE,BUSY
+02/25/17,01:05 PM,01:05 PM,Yankees at Phillies,Spectrum Field - Clearwater,"",02/25/17,02/25/17,04:05 PM,04:05 PM,FALSE,TRUE,02/25/17,12:05 PM,12:05 PM,FREE,BUSY
+02/26/17,01:05 PM,01:05 PM,Blue Jays at Yankees,George M. Steinbrenner Field - Tampa,"",02/26/17,02/26/17,04:05 PM,04:05 PM,FALSE,TRUE,02/26/17,12:05 PM,12:05 PM,FREE,BUSY
+02/27/17,01:05 PM,01:05 PM,Yankees at Orioles,Ed Smith Stadium - Sarasota,"",02/27/17,02/27/17,04:05 PM,04:05 PM,FALSE,TRUE,02/27/17,12:05 PM,12:05 PM,FREE,BUSY
+02/28/17,01:05 PM,01:05 PM,Tigers at Yankees,George M. Steinbrenner Field - Tampa,"",02/28/17,02/28/17,04:05 PM,04:05 PM,FALSE,TRUE,02/28/17,12:05 PM,12:05 PM,FREE,BUSY
+02/28/17,01:05 PM,01:05 PM,Yankees at Red Sox,JetBlue Park - Ft. Myers,"",02/28/17,02/28/17,04:05 PM,04:05 PM,FALSE,TRUE,02/28/17,12:05 PM,12:05 PM,FREE,BUSY
+03/01/17,06:35 PM,06:35 PM,Braves at Yankees,George M. Steinbrenner Field - Tampa,"",03/01/17,03/01/17,09:35 PM,09:35 PM,FALSE,TRUE,03/01/17,05:35 PM,05:35 PM,FREE,BUSY
+03/02/17,06:35 PM,06:35 PM,Orioles at Yankees,George M. Steinbrenner Field - Tampa,"",03/02/17,03/02/17,09:35 PM,09:35 PM,FALSE,TRUE,03/02/17,05:35 PM,05:35 PM,FREE,BUSY
+03/03/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Florida Auto Exchange Stadium - Dunedin,"",03/03/17,03/03/17,04:07 PM,04:07 PM,FALSE,TRUE,03/03/17,12:07 PM,12:07 PM,FREE,BUSY
+03/04/17,01:05 PM,01:05 PM,Yankees at Tigers,Joker Marchant Stadium - Lakeland,"",03/04/17,03/04/17,04:05 PM,04:05 PM,FALSE,TRUE,03/04/17,12:05 PM,12:05 PM,FREE,BUSY
+03/05/17,01:05 PM,01:05 PM,Pirates at Yankees,George M. Steinbrenner Field - Tampa,"",03/05/17,03/05/17,04:05 PM,04:05 PM,FALSE,TRUE,03/05/17,12:05 PM,12:05 PM,FREE,BUSY
+03/06/17,01:05 PM,01:05 PM,Yankees at Pirates,McKechnie Field - Bradenton,"",03/06/17,03/06/17,04:05 PM,04:05 PM,FALSE,TRUE,03/06/17,12:05 PM,12:05 PM,FREE,BUSY
+03/07/17,01:05 PM,01:05 PM,Rays at Yankees,George M. Steinbrenner Field - Tampa,"",03/07/17,03/07/17,04:05 PM,04:05 PM,FALSE,TRUE,03/07/17,12:05 PM,12:05 PM,FREE,BUSY
+03/08/17,01:05 PM,01:05 PM,Canada at Yankees,George M. Steinbrenner Field - Tampa,"",03/08/17,03/08/17,04:05 PM,04:05 PM,FALSE,TRUE,03/08/17,12:05 PM,12:05 PM,FREE,BUSY
+03/09/17,01:05 PM,01:05 PM,Yankees at Braves,Champion Stadium - Lake Buena Vista,"",03/09/17,03/09/17,04:05 PM,04:05 PM,FALSE,TRUE,03/09/17,12:05 PM,12:05 PM,FREE,BUSY
+03/10/17,01:05 PM,01:05 PM,Yankees at Phillies,Spectrum Field - Clearwater,"",03/10/17,03/10/17,04:05 PM,04:05 PM,FALSE,TRUE,03/10/17,12:05 PM,12:05 PM,FREE,BUSY
+03/11/17,01:05 PM,01:05 PM,Tigers at Yankees,George M. Steinbrenner Field - Tampa,"",03/11/17,03/11/17,04:05 PM,04:05 PM,FALSE,TRUE,03/11/17,12:05 PM,12:05 PM,FREE,BUSY
+03/12/17,01:05 PM,01:05 PM,Braves at Yankees,George M. Steinbrenner Field - Tampa,"",03/12/17,03/12/17,04:05 PM,04:05 PM,FALSE,TRUE,03/12/17,12:05 PM,12:05 PM,FREE,BUSY
+03/14/17,01:05 PM,01:05 PM,Yankees at Rays,Charlotte Sports Park - Port Charlotte,"",03/14/17,03/14/17,04:05 PM,04:05 PM,FALSE,TRUE,03/14/17,12:05 PM,12:05 PM,FREE,BUSY
+03/15/17,06:35 PM,06:35 PM,Phillies at Yankees,George M. Steinbrenner Field - Tampa,"",03/15/17,03/15/17,09:35 PM,09:35 PM,FALSE,TRUE,03/15/17,05:35 PM,05:35 PM,FREE,BUSY
+03/16/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Florida Auto Exchange Stadium - Dunedin,"",03/16/17,03/16/17,04:07 PM,04:07 PM,FALSE,TRUE,03/16/17,12:07 PM,12:07 PM,FREE,BUSY
+03/17/17,01:05 PM,01:05 PM,Yankees at Tigers,Joker Marchant Stadium - Lakeland,"",03/17/17,03/17/17,04:05 PM,04:05 PM,FALSE,TRUE,03/17/17,12:05 PM,12:05 PM,FREE,BUSY
+03/18/17,01:05 PM,01:05 PM,Orioles at Yankees,George M. Steinbrenner Field - Tampa,"",03/18/17,03/18/17,04:05 PM,04:05 PM,FALSE,TRUE,03/18/17,12:05 PM,12:05 PM,FREE,BUSY
+03/19/17,01:05 PM,01:05 PM,Yankees at Astros,The Ballpark of the Palm Beaches - West Palm Beach,"",03/19/17,03/19/17,04:05 PM,04:05 PM,FALSE,TRUE,03/19/17,12:05 PM,12:05 PM,FREE,BUSY
+03/20/17,01:05 PM,01:05 PM,Yankees at Nationals,The Ballpark of the Palm Beaches - West Palm Beach,"",03/20/17,03/20/17,04:05 PM,04:05 PM,FALSE,TRUE,03/20/17,12:05 PM,12:05 PM,FREE,BUSY
+03/21/17,06:35 PM,06:35 PM,Red Sox at Yankees,George M. Steinbrenner Field - Tampa,"",03/21/17,03/21/17,09:35 PM,09:35 PM,FALSE,TRUE,03/21/17,05:35 PM,05:35 PM,FREE,BUSY
+03/22/17,01:05 PM,01:05 PM,Yankees at Phillies,Spectrum Field - Clearwater,"",03/22/17,03/22/17,04:05 PM,04:05 PM,FALSE,TRUE,03/22/17,12:05 PM,12:05 PM,FREE,BUSY
+03/23/17,01:05 PM,01:05 PM,Yankees at Rays,Charlotte Sports Park - Port Charlotte,"",03/23/17,03/23/17,04:05 PM,04:05 PM,FALSE,TRUE,03/23/17,12:05 PM,12:05 PM,FREE,BUSY
+03/24/17,01:05 PM,01:05 PM,Phillies at Yankees,George M. Steinbrenner Field - Tampa,"",03/24/17,03/24/17,04:05 PM,04:05 PM,FALSE,TRUE,03/24/17,12:05 PM,12:05 PM,FREE,BUSY
+03/25/17,01:05 PM,01:05 PM,Blue Jays at Yankees,George M. Steinbrenner Field - Tampa,"",03/25/17,03/25/17,04:05 PM,04:05 PM,FALSE,TRUE,03/25/17,12:05 PM,12:05 PM,FREE,BUSY
+03/26/17,01:05 PM,01:05 PM,Rays at Yankees,George M. Steinbrenner Field - Tampa,"",03/26/17,03/26/17,04:05 PM,04:05 PM,FALSE,TRUE,03/26/17,12:05 PM,12:05 PM,FREE,BUSY
+03/28/17,06:35 PM,06:35 PM,Tigers at Yankees,George M. Steinbrenner Field - Tampa,"",03/28/17,03/28/17,09:35 PM,09:35 PM,FALSE,TRUE,03/28/17,05:35 PM,05:35 PM,FREE,BUSY
+03/29/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Florida Auto Exchange Stadium - Dunedin,"",03/29/17,03/29/17,04:07 PM,04:07 PM,FALSE,TRUE,03/29/17,12:07 PM,12:07 PM,FREE,BUSY
+03/30/17,01:05 PM,01:05 PM,Yankees at Phillies,Spectrum Field - Clearwater,"",03/30/17,03/30/17,04:05 PM,04:05 PM,FALSE,TRUE,03/30/17,12:05 PM,12:05 PM,FREE,BUSY
+03/31/17,07:35 PM,07:35 PM,Yankees at Braves,SunTrust Park - Atlanta,"",03/31/17,03/31/17,10:35 PM,10:35 PM,FALSE,TRUE,03/31/17,06:35 PM,06:35 PM,FREE,BUSY
+04/02/17,01:10 PM,01:10 PM,Yankees at Rays,Tropicana Field - St. Petersburg,"Local TV: ESPN",04/02/17,04/02/17,04:10 PM,04:10 PM,FALSE,TRUE,04/02/17,12:10 PM,12:10 PM,FREE,BUSY
+04/04/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",04/04/17,04/04/17,,,FALSE,TRUE,04/04/17,,,FREE,BUSY
+04/05/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",04/05/17,04/05/17,,,FALSE,TRUE,04/05/17,,,FREE,BUSY
+04/07/17,07:05 PM,07:05 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",04/07/17,04/07/17,10:05 PM,10:05 PM,FALSE,TRUE,04/07/17,06:05 PM,06:05 PM,FREE,BUSY
+04/08/17,04:05 PM,04:05 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",04/08/17,04/08/17,07:05 PM,07:05 PM,FALSE,TRUE,04/08/17,03:05 PM,03:05 PM,FREE,BUSY
+04/09/17,01:35 PM,01:35 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",04/09/17,04/09/17,04:35 PM,04:35 PM,FALSE,TRUE,04/09/17,12:35 PM,12:35 PM,FREE,BUSY
+04/10/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/10/17,04/10/17,,,FALSE,TRUE,04/10/17,,,FREE,BUSY
+04/12/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/12/17,04/12/17,,,FALSE,TRUE,04/12/17,,,FREE,BUSY
+04/13/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/13/17,04/13/17,,,FALSE,TRUE,04/13/17,,,FREE,BUSY
+04/14/17,,,Cardinals at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/14/17,04/14/17,,,FALSE,TRUE,04/14/17,,,FREE,BUSY
+04/15/17,,,Cardinals at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/15/17,04/15/17,,,FALSE,TRUE,04/15/17,,,FREE,BUSY
+04/16/17,08:00 PM,08:00 PM,Cardinals at Yankees,Yankee Stadium - Bronx,"Local TV: ESPN",04/16/17,04/16/17,11:00 PM,11:00 PM,FALSE,TRUE,04/16/17,07:00 PM,07:00 PM,FREE,BUSY
+04/17/17,,,White Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/17/17,04/17/17,,,FALSE,TRUE,04/17/17,,,FREE,BUSY
+04/18/17,,,White Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/18/17,04/18/17,,,FALSE,TRUE,04/18/17,,,FREE,BUSY
+04/19/17,,,White Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/19/17,04/19/17,,,FALSE,TRUE,04/19/17,,,FREE,BUSY
+04/21/17,07:05 PM,07:05 PM,Yankees at Pirates,PNC Park - Pittsburgh,"",04/21/17,04/21/17,10:05 PM,10:05 PM,FALSE,TRUE,04/21/17,06:05 PM,06:05 PM,FREE,BUSY
+04/22/17,04:05 PM,04:05 PM,Yankees at Pirates,PNC Park - Pittsburgh,"",04/22/17,04/22/17,07:05 PM,07:05 PM,FALSE,TRUE,04/22/17,03:05 PM,03:05 PM,FREE,BUSY
+04/23/17,01:35 PM,01:35 PM,Yankees at Pirates,PNC Park - Pittsburgh,"",04/23/17,04/23/17,04:35 PM,04:35 PM,FALSE,TRUE,04/23/17,12:35 PM,12:35 PM,FREE,BUSY
+04/25/17,07:10 PM,07:10 PM,Yankees at Red Sox,Fenway Park - Boston,"",04/25/17,04/25/17,10:10 PM,10:10 PM,FALSE,TRUE,04/25/17,06:10 PM,06:10 PM,FREE,BUSY
+04/26/17,07:10 PM,07:10 PM,Yankees at Red Sox,Fenway Park - Boston,"",04/26/17,04/26/17,10:10 PM,10:10 PM,FALSE,TRUE,04/26/17,06:10 PM,06:10 PM,FREE,BUSY
+04/27/17,07:10 PM,07:10 PM,Yankees at Red Sox,Fenway Park - Boston,"",04/27/17,04/27/17,10:10 PM,10:10 PM,FALSE,TRUE,04/27/17,06:10 PM,06:10 PM,FREE,BUSY
+04/28/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/28/17,04/28/17,,,FALSE,TRUE,04/28/17,,,FREE,BUSY
+04/29/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/29/17,04/29/17,,,FALSE,TRUE,04/29/17,,,FREE,BUSY
+04/30/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",04/30/17,04/30/17,,,FALSE,TRUE,04/30/17,,,FREE,BUSY
+05/01/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/01/17,05/01/17,,,FALSE,TRUE,05/01/17,,,FREE,BUSY
+05/02/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/02/17,05/02/17,,,FALSE,TRUE,05/02/17,,,FREE,BUSY
+05/03/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/03/17,05/03/17,,,FALSE,TRUE,05/03/17,,,FREE,BUSY
+05/05/17,02:20 PM,02:20 PM,Yankees at Cubs,Wrigley Field - Chicago,"",05/05/17,05/05/17,05:20 PM,05:20 PM,FALSE,TRUE,05/05/17,01:20 PM,01:20 PM,FREE,BUSY
+05/06/17,07:15 PM,07:15 PM,Yankees at Cubs,Wrigley Field - Chicago,"",05/06/17,05/06/17,10:15 PM,10:15 PM,FALSE,TRUE,05/06/17,06:15 PM,06:15 PM,FREE,BUSY
+05/07/17,08:05 PM,08:05 PM,Yankees at Cubs,Wrigley Field - Chicago,"Local TV: ESPN",05/07/17,05/07/17,11:05 PM,11:05 PM,FALSE,TRUE,05/07/17,07:05 PM,07:05 PM,FREE,BUSY
+05/08/17,07:10 PM,07:10 PM,Yankees at Reds,Great American Ball Park - Cincinnati,"",05/08/17,05/08/17,10:10 PM,10:10 PM,FALSE,TRUE,05/08/17,06:10 PM,06:10 PM,FREE,BUSY
+05/09/17,07:10 PM,07:10 PM,Yankees at Reds,Great American Ball Park - Cincinnati,"",05/09/17,05/09/17,10:10 PM,10:10 PM,FALSE,TRUE,05/09/17,06:10 PM,06:10 PM,FREE,BUSY
+05/11/17,,,Astros at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/11/17,05/11/17,,,FALSE,TRUE,05/11/17,,,FREE,BUSY
+05/12/17,,,Astros at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/12/17,05/12/17,,,FALSE,TRUE,05/12/17,,,FREE,BUSY
+05/13/17,,,Astros at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/13/17,05/13/17,,,FALSE,TRUE,05/13/17,,,FREE,BUSY
+05/14/17,07:30 PM,07:30 PM,Astros at Yankees,Yankee Stadium - Bronx,"Local TV: ESPN",05/14/17,05/14/17,10:30 PM,10:30 PM,FALSE,TRUE,05/14/17,06:30 PM,06:30 PM,FREE,BUSY
+05/16/17,,,Yankees at Royals - Time TBD,Kauffman Stadium - Kansas City,"",05/16/17,05/16/17,,,FALSE,TRUE,05/16/17,,,FREE,BUSY
+05/17/17,,,Yankees at Royals - Time TBD,Kauffman Stadium - Kansas City,"",05/17/17,05/17/17,,,FALSE,TRUE,05/17/17,,,FREE,BUSY
+05/18/17,,,Yankees at Royals - Time TBD,Kauffman Stadium - Kansas City,"",05/18/17,05/18/17,,,FALSE,TRUE,05/18/17,,,FREE,BUSY
+05/19/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",05/19/17,05/19/17,,,FALSE,TRUE,05/19/17,,,FREE,BUSY
+05/20/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",05/20/17,05/20/17,,,FALSE,TRUE,05/20/17,,,FREE,BUSY
+05/21/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",05/21/17,05/21/17,,,FALSE,TRUE,05/21/17,,,FREE,BUSY
+05/22/17,,,Royals at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/22/17,05/22/17,,,FALSE,TRUE,05/22/17,,,FREE,BUSY
+05/23/17,,,Royals at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/23/17,05/23/17,,,FALSE,TRUE,05/23/17,,,FREE,BUSY
+05/24/17,,,Royals at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/24/17,05/24/17,,,FALSE,TRUE,05/24/17,,,FREE,BUSY
+05/25/17,,,Royals at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/25/17,05/25/17,,,FALSE,TRUE,05/25/17,,,FREE,BUSY
+05/26/17,,,Athletics at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/26/17,05/26/17,,,FALSE,TRUE,05/26/17,,,FREE,BUSY
+05/27/17,,,Athletics at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/27/17,05/27/17,,,FALSE,TRUE,05/27/17,,,FREE,BUSY
+05/28/17,,,Athletics at Yankees - Time TBD,Yankee Stadium - Bronx,"",05/28/17,05/28/17,,,FALSE,TRUE,05/28/17,,,FREE,BUSY
+05/29/17,01:35 PM,01:35 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",05/29/17,05/29/17,04:35 PM,04:35 PM,FALSE,TRUE,05/29/17,12:35 PM,12:35 PM,FREE,BUSY
+05/30/17,07:05 PM,07:05 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",05/30/17,05/30/17,10:05 PM,10:05 PM,FALSE,TRUE,05/30/17,06:05 PM,06:05 PM,FREE,BUSY
+05/31/17,07:05 PM,07:05 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",05/31/17,05/31/17,10:05 PM,10:05 PM,FALSE,TRUE,05/31/17,06:05 PM,06:05 PM,FREE,BUSY
+06/01/17,07:07 PM,07:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",06/01/17,06/01/17,10:07 PM,10:07 PM,FALSE,TRUE,06/01/17,06:07 PM,06:07 PM,FREE,BUSY
+06/02/17,07:07 PM,07:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",06/02/17,06/02/17,10:07 PM,10:07 PM,FALSE,TRUE,06/02/17,06:07 PM,06:07 PM,FREE,BUSY
+06/03/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",06/03/17,06/03/17,04:07 PM,04:07 PM,FALSE,TRUE,06/03/17,12:07 PM,12:07 PM,FREE,BUSY
+06/04/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",06/04/17,06/04/17,04:07 PM,04:07 PM,FALSE,TRUE,06/04/17,12:07 PM,12:07 PM,FREE,BUSY
+06/06/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/06/17,06/06/17,,,FALSE,TRUE,06/06/17,,,FREE,BUSY
+06/07/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/07/17,06/07/17,,,FALSE,TRUE,06/07/17,,,FREE,BUSY
+06/08/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/08/17,06/08/17,,,FALSE,TRUE,06/08/17,,,FREE,BUSY
+06/09/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/09/17,06/09/17,,,FALSE,TRUE,06/09/17,,,FREE,BUSY
+06/10/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/10/17,06/10/17,,,FALSE,TRUE,06/10/17,,,FREE,BUSY
+06/11/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/11/17,06/11/17,,,FALSE,TRUE,06/11/17,,,FREE,BUSY
+06/12/17,10:07 PM,10:07 PM,Yankees at Angels,Angel Stadium of Anaheim - Anaheim,"",06/13/17,06/13/17,01:07 AM,01:07 AM,FALSE,TRUE,06/12/17,09:07 PM,09:07 PM,FREE,BUSY
+06/13/17,10:07 PM,10:07 PM,Yankees at Angels,Angel Stadium of Anaheim - Anaheim,"",06/14/17,06/14/17,01:07 AM,01:07 AM,FALSE,TRUE,06/13/17,09:07 PM,09:07 PM,FREE,BUSY
+06/14/17,10:07 PM,10:07 PM,Yankees at Angels,Angel Stadium of Anaheim - Anaheim,"",06/15/17,06/15/17,01:07 AM,01:07 AM,FALSE,TRUE,06/14/17,09:07 PM,09:07 PM,FREE,BUSY
+06/15/17,10:05 PM,10:05 PM,Yankees at Athletics,Oakland Coliseum - Oakland,"",06/16/17,06/16/17,01:05 AM,01:05 AM,FALSE,TRUE,06/15/17,09:05 PM,09:05 PM,FREE,BUSY
+06/16/17,09:35 PM,09:35 PM,Yankees at Athletics,Oakland Coliseum - Oakland,"",06/17/17,06/17/17,12:35 AM,12:35 AM,FALSE,TRUE,06/16/17,08:35 PM,08:35 PM,FREE,BUSY
+06/17/17,04:05 PM,04:05 PM,Yankees at Athletics,Oakland Coliseum - Oakland,"",06/17/17,06/17/17,07:05 PM,07:05 PM,FALSE,TRUE,06/17/17,03:05 PM,03:05 PM,FREE,BUSY
+06/18/17,04:05 PM,04:05 PM,Yankees at Athletics,Oakland Coliseum - Oakland,"",06/18/17,06/18/17,07:05 PM,07:05 PM,FALSE,TRUE,06/18/17,03:05 PM,03:05 PM,FREE,BUSY
+06/20/17,,,Angels at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/20/17,06/20/17,,,FALSE,TRUE,06/20/17,,,FREE,BUSY
+06/21/17,,,Angels at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/21/17,06/21/17,,,FALSE,TRUE,06/21/17,,,FREE,BUSY
+06/22/17,,,Angels at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/22/17,06/22/17,,,FALSE,TRUE,06/22/17,,,FREE,BUSY
+06/23/17,,,Rangers at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/23/17,06/23/17,,,FALSE,TRUE,06/23/17,,,FREE,BUSY
+06/24/17,,,Rangers at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/24/17,06/24/17,,,FALSE,TRUE,06/24/17,,,FREE,BUSY
+06/25/17,,,Rangers at Yankees - Time TBD,Yankee Stadium - Bronx,"",06/25/17,06/25/17,,,FALSE,TRUE,06/25/17,,,FREE,BUSY
+06/26/17,,,Yankees at White Sox - Time TBD,Guaranteed Rate Field - Chicago,"",06/26/17,06/26/17,,,FALSE,TRUE,06/26/17,,,FREE,BUSY
+06/27/17,,,Yankees at White Sox - Time TBD,Guaranteed Rate Field - Chicago,"",06/27/17,06/27/17,,,FALSE,TRUE,06/27/17,,,FREE,BUSY
+06/28/17,,,Yankees at White Sox - Time TBD,Guaranteed Rate Field - Chicago,"",06/28/17,06/28/17,,,FALSE,TRUE,06/28/17,,,FREE,BUSY
+06/29/17,,,Yankees at White Sox - Time TBD,Guaranteed Rate Field - Chicago,"",06/29/17,06/29/17,,,FALSE,TRUE,06/29/17,,,FREE,BUSY
+06/30/17,,,Yankees at Astros - Time TBD,Minute Maid Park - Houston,"",06/30/17,06/30/17,,,FALSE,TRUE,06/30/17,,,FREE,BUSY
+07/01/17,,,Yankees at Astros - Time TBD,Minute Maid Park - Houston,"",07/01/17,07/01/17,,,FALSE,TRUE,07/01/17,,,FREE,BUSY
+07/02/17,,,Yankees at Astros - Time TBD,Minute Maid Park - Houston,"",07/02/17,07/02/17,,,FALSE,TRUE,07/02/17,,,FREE,BUSY
+07/03/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/03/17,07/03/17,,,FALSE,TRUE,07/03/17,,,FREE,BUSY
+07/04/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/04/17,07/04/17,,,FALSE,TRUE,07/04/17,,,FREE,BUSY
+07/05/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/05/17,07/05/17,,,FALSE,TRUE,07/05/17,,,FREE,BUSY
+07/07/17,,,Brewers at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/07/17,07/07/17,,,FALSE,TRUE,07/07/17,,,FREE,BUSY
+07/08/17,,,Brewers at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/08/17,07/08/17,,,FALSE,TRUE,07/08/17,,,FREE,BUSY
+07/09/17,,,Brewers at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/09/17,07/09/17,,,FALSE,TRUE,07/09/17,,,FREE,BUSY
+07/11/17,08:00 PM,08:00 PM,AL All-Stars at NL All-Stars,Marlins Park - Miami,"",07/11/17,07/11/17,11:00 PM,11:00 PM,FALSE,TRUE,07/11/17,07:00 PM,07:00 PM,FREE,BUSY
+07/14/17,07:10 PM,07:10 PM,Yankees at Red Sox,Fenway Park - Boston,"",07/14/17,07/14/17,10:10 PM,10:10 PM,FALSE,TRUE,07/14/17,06:10 PM,06:10 PM,FREE,BUSY
+07/15/17,04:05 PM,04:05 PM,Yankees at Red Sox,Fenway Park - Boston,"",07/15/17,07/15/17,07:05 PM,07:05 PM,FALSE,TRUE,07/15/17,03:05 PM,03:05 PM,FREE,BUSY
+07/16/17,08:05 PM,08:05 PM,Yankees at Red Sox,Fenway Park - Boston,"Local TV: ESPN",07/16/17,07/16/17,11:05 PM,11:05 PM,FALSE,TRUE,07/16/17,07:05 PM,07:05 PM,FREE,BUSY
+07/17/17,08:10 PM,08:10 PM,Yankees at Twins,Target Field - Minneapolis,"",07/17/17,07/17/17,11:10 PM,11:10 PM,FALSE,TRUE,07/17/17,07:10 PM,07:10 PM,FREE,BUSY
+07/18/17,08:10 PM,08:10 PM,Yankees at Twins,Target Field - Minneapolis,"",07/18/17,07/18/17,11:10 PM,11:10 PM,FALSE,TRUE,07/18/17,07:10 PM,07:10 PM,FREE,BUSY
+07/19/17,01:10 PM,01:10 PM,Yankees at Twins,Target Field - Minneapolis,"",07/19/17,07/19/17,04:10 PM,04:10 PM,FALSE,TRUE,07/19/17,12:10 PM,12:10 PM,FREE,BUSY
+07/20/17,10:10 PM,10:10 PM,Yankees at Mariners,Safeco Field - Seattle,"",07/21/17,07/21/17,01:10 AM,01:10 AM,FALSE,TRUE,07/20/17,09:10 PM,09:10 PM,FREE,BUSY
+07/21/17,10:10 PM,10:10 PM,Yankees at Mariners,Safeco Field - Seattle,"",07/22/17,07/22/17,01:10 AM,01:10 AM,FALSE,TRUE,07/21/17,09:10 PM,09:10 PM,FREE,BUSY
+07/22/17,09:10 PM,09:10 PM,Yankees at Mariners,Safeco Field - Seattle,"",07/23/17,07/23/17,12:10 AM,12:10 AM,FALSE,TRUE,07/22/17,08:10 PM,08:10 PM,FREE,BUSY
+07/23/17,04:10 PM,04:10 PM,Yankees at Mariners,Safeco Field - Seattle,"",07/23/17,07/23/17,07:10 PM,07:10 PM,FALSE,TRUE,07/23/17,03:10 PM,03:10 PM,FREE,BUSY
+07/25/17,,,Reds at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/25/17,07/25/17,,,FALSE,TRUE,07/25/17,,,FREE,BUSY
+07/26/17,,,Reds at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/26/17,07/26/17,,,FALSE,TRUE,07/26/17,,,FREE,BUSY
+07/27/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/27/17,07/27/17,,,FALSE,TRUE,07/27/17,,,FREE,BUSY
+07/28/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/28/17,07/28/17,,,FALSE,TRUE,07/28/17,,,FREE,BUSY
+07/29/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/29/17,07/29/17,,,FALSE,TRUE,07/29/17,,,FREE,BUSY
+07/30/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/30/17,07/30/17,,,FALSE,TRUE,07/30/17,,,FREE,BUSY
+07/31/17,,,Tigers at Yankees - Time TBD,Yankee Stadium - Bronx,"",07/31/17,07/31/17,,,FALSE,TRUE,07/31/17,,,FREE,BUSY
+08/01/17,,,Tigers at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/01/17,08/01/17,,,FALSE,TRUE,08/01/17,,,FREE,BUSY
+08/02/17,,,Tigers at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/02/17,08/02/17,,,FALSE,TRUE,08/02/17,,,FREE,BUSY
+08/03/17,,,Yankees at Indians - Time TBD,Progressive Field - Cleveland,"",08/03/17,08/03/17,,,FALSE,TRUE,08/03/17,,,FREE,BUSY
+08/04/17,,,Yankees at Indians - Time TBD,Progressive Field - Cleveland,"",08/04/17,08/04/17,,,FALSE,TRUE,08/04/17,,,FREE,BUSY
+08/05/17,,,Yankees at Indians - Time TBD,Progressive Field - Cleveland,"",08/05/17,08/05/17,,,FALSE,TRUE,08/05/17,,,FREE,BUSY
+08/06/17,,,Yankees at Indians - Time TBD,Progressive Field - Cleveland,"",08/06/17,08/06/17,,,FALSE,TRUE,08/06/17,,,FREE,BUSY
+08/08/17,07:07 PM,07:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",08/08/17,08/08/17,10:07 PM,10:07 PM,FALSE,TRUE,08/08/17,06:07 PM,06:07 PM,FREE,BUSY
+08/09/17,07:07 PM,07:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",08/09/17,08/09/17,10:07 PM,10:07 PM,FALSE,TRUE,08/09/17,06:07 PM,06:07 PM,FREE,BUSY
+08/10/17,07:07 PM,07:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",08/10/17,08/10/17,10:07 PM,10:07 PM,FALSE,TRUE,08/10/17,06:07 PM,06:07 PM,FREE,BUSY
+08/11/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/11/17,08/11/17,,,FALSE,TRUE,08/11/17,,,FREE,BUSY
+08/12/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/12/17,08/12/17,,,FALSE,TRUE,08/12/17,,,FREE,BUSY
+08/13/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/13/17,08/13/17,,,FALSE,TRUE,08/13/17,,,FREE,BUSY
+08/14/17,,,Mets at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/14/17,08/14/17,,,FALSE,TRUE,08/14/17,,,FREE,BUSY
+08/15/17,,,Mets at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/15/17,08/15/17,,,FALSE,TRUE,08/15/17,,,FREE,BUSY
+08/16/17,07:10 PM,07:10 PM,Yankees at Mets,Citi Field - Flushing,"",08/16/17,08/16/17,10:10 PM,10:10 PM,FALSE,TRUE,08/16/17,06:10 PM,06:10 PM,FREE,BUSY
+08/17/17,07:10 PM,07:10 PM,Yankees at Mets,Citi Field - Flushing,"",08/17/17,08/17/17,10:10 PM,10:10 PM,FALSE,TRUE,08/17/17,06:10 PM,06:10 PM,FREE,BUSY
+08/18/17,07:10 PM,07:10 PM,Yankees at Red Sox,Fenway Park - Boston,"",08/18/17,08/18/17,10:10 PM,10:10 PM,FALSE,TRUE,08/18/17,06:10 PM,06:10 PM,FREE,BUSY
+08/19/17,07:10 PM,07:10 PM,Yankees at Red Sox,Fenway Park - Boston,"",08/19/17,08/19/17,10:10 PM,10:10 PM,FALSE,TRUE,08/19/17,06:10 PM,06:10 PM,FREE,BUSY
+08/20/17,,,Yankees at Red Sox - Time TBD,Fenway Park - Boston,"",08/20/17,08/20/17,,,FALSE,TRUE,08/20/17,,,FREE,BUSY
+08/22/17,07:10 PM,07:10 PM,Yankees at Tigers,Comerica Park - Detroit,"",08/22/17,08/22/17,10:10 PM,10:10 PM,FALSE,TRUE,08/22/17,06:10 PM,06:10 PM,FREE,BUSY
+08/23/17,07:10 PM,07:10 PM,Yankees at Tigers,Comerica Park - Detroit,"",08/23/17,08/23/17,10:10 PM,10:10 PM,FALSE,TRUE,08/23/17,06:10 PM,06:10 PM,FREE,BUSY
+08/24/17,01:10 PM,01:10 PM,Yankees at Tigers,Comerica Park - Detroit,"",08/24/17,08/24/17,04:10 PM,04:10 PM,FALSE,TRUE,08/24/17,12:10 PM,12:10 PM,FREE,BUSY
+08/25/17,,,Mariners at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/25/17,08/25/17,,,FALSE,TRUE,08/25/17,,,FREE,BUSY
+08/26/17,,,Mariners at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/26/17,08/26/17,,,FALSE,TRUE,08/26/17,,,FREE,BUSY
+08/27/17,,,Mariners at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/27/17,08/27/17,,,FALSE,TRUE,08/27/17,,,FREE,BUSY
+08/28/17,,,Indians at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/28/17,08/28/17,,,FALSE,TRUE,08/28/17,,,FREE,BUSY
+08/29/17,,,Indians at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/29/17,08/29/17,,,FALSE,TRUE,08/29/17,,,FREE,BUSY
+08/30/17,,,Indians at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/30/17,08/30/17,,,FALSE,TRUE,08/30/17,,,FREE,BUSY
+08/31/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",08/31/17,08/31/17,,,FALSE,TRUE,08/31/17,,,FREE,BUSY
+09/01/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/01/17,09/01/17,,,FALSE,TRUE,09/01/17,,,FREE,BUSY
+09/02/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/02/17,09/02/17,,,FALSE,TRUE,09/02/17,,,FREE,BUSY
+09/03/17,,,Red Sox at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/03/17,09/03/17,,,FALSE,TRUE,09/03/17,,,FREE,BUSY
+09/04/17,01:35 PM,01:35 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",09/04/17,09/04/17,04:35 PM,04:35 PM,FALSE,TRUE,09/04/17,12:35 PM,12:35 PM,FREE,BUSY
+09/05/17,07:05 PM,07:05 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",09/05/17,09/05/17,10:05 PM,10:05 PM,FALSE,TRUE,09/05/17,06:05 PM,06:05 PM,FREE,BUSY
+09/06/17,07:05 PM,07:05 PM,Yankees at Orioles,Oriole Park at Camden Yards - Baltimore,"",09/06/17,09/06/17,10:05 PM,10:05 PM,FALSE,TRUE,09/06/17,06:05 PM,06:05 PM,FREE,BUSY
+09/08/17,,,Yankees at Rangers - Time TBD,Globe Life Park in Arlington - Arlington,"",09/08/17,09/08/17,,,FALSE,TRUE,09/08/17,,,FREE,BUSY
+09/09/17,,,Yankees at Rangers - Time TBD,Globe Life Park in Arlington - Arlington,"",09/09/17,09/09/17,,,FALSE,TRUE,09/09/17,,,FREE,BUSY
+09/10/17,,,Yankees at Rangers - Time TBD,Globe Life Park in Arlington - Arlington,"",09/10/17,09/10/17,,,FALSE,TRUE,09/10/17,,,FREE,BUSY
+09/11/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",09/11/17,09/11/17,,,FALSE,TRUE,09/11/17,,,FREE,BUSY
+09/12/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",09/12/17,09/12/17,,,FALSE,TRUE,09/12/17,,,FREE,BUSY
+09/13/17,,,Yankees at Rays - Time TBD,Tropicana Field - St. Petersburg,"",09/13/17,09/13/17,,,FALSE,TRUE,09/13/17,,,FREE,BUSY
+09/14/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/14/17,09/14/17,,,FALSE,TRUE,09/14/17,,,FREE,BUSY
+09/15/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/15/17,09/15/17,,,FALSE,TRUE,09/15/17,,,FREE,BUSY
+09/16/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/16/17,09/16/17,,,FALSE,TRUE,09/16/17,,,FREE,BUSY
+09/17/17,,,Orioles at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/17/17,09/17/17,,,FALSE,TRUE,09/17/17,,,FREE,BUSY
+09/18/17,,,Twins at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/18/17,09/18/17,,,FALSE,TRUE,09/18/17,,,FREE,BUSY
+09/19/17,,,Twins at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/19/17,09/19/17,,,FALSE,TRUE,09/19/17,,,FREE,BUSY
+09/20/17,,,Twins at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/20/17,09/20/17,,,FALSE,TRUE,09/20/17,,,FREE,BUSY
+09/22/17,07:07 PM,07:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",09/22/17,09/22/17,10:07 PM,10:07 PM,FALSE,TRUE,09/22/17,06:07 PM,06:07 PM,FREE,BUSY
+09/23/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",09/23/17,09/23/17,04:07 PM,04:07 PM,FALSE,TRUE,09/23/17,12:07 PM,12:07 PM,FREE,BUSY
+09/24/17,01:07 PM,01:07 PM,Yankees at Blue Jays,Rogers Centre - Toronto,"",09/24/17,09/24/17,04:07 PM,04:07 PM,FALSE,TRUE,09/24/17,12:07 PM,12:07 PM,FREE,BUSY
+09/26/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/26/17,09/26/17,,,FALSE,TRUE,09/26/17,,,FREE,BUSY
+09/27/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/27/17,09/27/17,,,FALSE,TRUE,09/27/17,,,FREE,BUSY
+09/28/17,,,Rays at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/28/17,09/28/17,,,FALSE,TRUE,09/28/17,,,FREE,BUSY
+09/29/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/29/17,09/29/17,,,FALSE,TRUE,09/29/17,,,FREE,BUSY
+09/30/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",09/30/17,09/30/17,,,FALSE,TRUE,09/30/17,,,FREE,BUSY
+10/01/17,,,Blue Jays at Yankees - Time TBD,Yankee Stadium - Bronx,"",10/01/17,10/01/17,,,FALSE,TRUE,10/01/17,,,FREE,BUSY
